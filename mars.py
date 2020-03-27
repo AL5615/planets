@@ -11,4 +11,5 @@ if colour == "red":
 else:
 	print("Colour is irrelevant")
 
+print("moons: ", moons)
 
